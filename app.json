@@ -1,13 +1,14 @@
-  "name": "Bot Thieves 1.3",
-    "description": "Bot Thieves - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+  {
+    "name": "RAVANA 3.5",
+    "description": "RAVANA💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/d2d9e494d6938b6b81a3c.jpg",
     "keywords": ["whatsapp", "userbot", "RAVANA", "RAVANA", "bot", "api", "ai"],
-    "repository": "https://github.com/Kisaramax/Bot-Thieves-LK",
+    "repository": "https://github.com/RAVANA-SL/slRavana",
     "website":   "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "success_url": "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "stack": "container",
     "env": {
-        "Bot Thieves_SESSION": {
+        "RAVANA_SESSION": {
             "description": "Qr සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
@@ -21,9 +22,9 @@
             "value": "SI"
         },
         "CAPTION_KEY": {
-            "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Bot Thieves.",
+            "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Ravana.",
             "required": false,
-	    "value": "Made by Bot Thieves"
+	    "value": "Made by RAVANA"
         },
         "HANDLERS": {
             "description": "විධාන සඳහා. විධාන සඳහා. වෙනස් නොකරන්න",
@@ -46,9 +47,9 @@
             "value": "990580a2e31add15990665b0"
         },
 	"MENU_TEXT": {
-            "description": "Bot Thieves Official Menu. ඔබ කැමති නමක් යොදන්න. නැතහොත් වෙනස් නොකරන්න. සැයු :- _ _,* *,~ ~,``` ``` භාවිතා නොකරන්න",
+            "description": "RaVana Official Menu. ඔබ කැමති නමක් යොදන්න. නැතහොත් වෙනස් නොකරන්න. සැයු :- _ _,* *,~ ~,``` ``` භාවිතා නොකරන්න",
             "required": false,
-            "value": "Bot Thieves Official Menu™"
+            "value": "RaVana Official Menu™"
         },
 	"MENU_LOGO": {
             "description": "menu එකේ පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
@@ -95,7 +96,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Bot Thieves Working Type. ඔබ “පොදු” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම බොට් භාවිතා කළ හැකිය. වෙනත් ආකාරයකින් ඔබ “පුද්ගලික” භාවිතා කරන්නේ නම්, ඔබේ බෝට්ටුව භාවිතා කළ හැක්කේ ඔබට පමණි.",
+            "description": "RAVANA Working Type. ඔබ “පොදු” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම බොට් භාවිතා කළ හැකිය. වෙනත් ආකාරයකින් ඔබ “පුද්ගලික” භාවිතා කරන්නේ නම්, ඔබේ බෝට්ටුව භාවිතා කළ හැක්කේ ඔබට පමණි.",
             "required": true,
             "value": "public"
         },
@@ -185,3 +186,4 @@
       "url": "heroku-community/apt"
       }]
   }
+
