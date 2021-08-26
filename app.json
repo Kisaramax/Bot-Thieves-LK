@@ -1,14 +1,14 @@
   {
     "name": "Bot Thieves",
     "description": "Bot Thieves💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/371pGpc/20210826-092204.png",
+    "logo": "https://telegra.ph/file/4a36be8ac1d9cdf9e4c3f.jpg",
     "keywords": ["whatsapp", "userbot", "RAVANA", "RAVANA", "bot", "api", "ai"],
     "repository": "https://github.com/Kisaramax/Bot-Thieves-LK",
     "website":   "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "success_url": "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "stack": "container",
     "env": {
-        "Bot Thieves_SESSION": {
+        "Bot_Thieves_SESSION": {
             "description": "Qr සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
@@ -54,7 +54,7 @@
 	"MENU_LOGO": {
             "description": "menu එකේ පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/000e36957e64bf5631335.jpg"
+            "value": "https://telegra.ph/file/4a36be8ac1d9cdf9e4c3f.jpg"
         },
         "SEND_READ": {
             "description": "ඔබට දැකීමට අවශ්‍ය නම් true ලෙස ටයිප් කරන්න..",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/d34f1216d80604adb4f43.jpg"
+            "value": "https://telegra.ph/file/4a36be8ac1d9cdf9e4c3f.jpg"
         },
         "GIF_WEL": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
