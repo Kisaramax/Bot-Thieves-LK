@@ -38,7 +38,7 @@ Bot Thieves bot විශේෂාංග මෙන්න.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KisaraBro/indexjs?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kisaramax/BotThievesSL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kisaramax/Bot-Thieves-LK)
      </div>
 ### ⚠️ Warning! 
 ```
