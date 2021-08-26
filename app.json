@@ -1,7 +1,7 @@
   {
     "name": "BOT THIEVES",
     "description": "BOT THIEVES🇱🇰 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://telegra.ph/file/d2d9e494d6938b6b81a3c.jpg",
+    "logo": "https://i.ibb.co/371pGpc/20210826-092204.png",
     "keywords": ["whatsapp", "userbot", "RAVANA", "RAVANA", "bot", "api", "ai"],
     "repository": "https://github.com/Kisaramax/Bot-Thieves-LK",
     "website":   "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
@@ -54,7 +54,7 @@
 	"MENU_LOGO": {
             "description": "menu එකේ පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/000e36957e64bf5631335.jpg"
+            "value": "https://i.ibb.co/371pGpc/20210826-092204.png"
         },
         "SEND_READ": {
             "description": "ඔබට දැකීමට අවශ්‍ය නම් true ලෙස ටයිප් කරන්න..",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/d34f1216d80604adb4f43.jpg"
+            "value": "https://i.ibb.co/371pGpc/20210826-092204.png"
         },
         "GIF_WEL": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
