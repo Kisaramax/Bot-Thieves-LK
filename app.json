@@ -1,14 +1,14 @@
   {
     "name": "Bot Thieves",
     "description": "Bot Thieves💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://telegra.ph/file/d2d9e494d6938b6b81a3c.jpg",
+    "logo": "https://i.ibb.co/371pGpc/20210826-092204.png",
     "keywords": ["whatsapp", "userbot", "RAVANA", "RAVANA", "bot", "api", "ai"],
     "repository": "https://github.com/Kisaramax/Bot-Thieves-LK",
     "website":   "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "success_url": "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "stack": "container",
     "env": {
-        "RAVANA_SESSION": {
+        "Bot Thieves_SESSION": {
             "description": "Qr සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
@@ -22,7 +22,7 @@
             "value": "SI"
         },
         "CAPTION_KEY": {
-            "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Ravana.",
+            "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Bot Thieves.",
             "required": false,
 	    "value": "Made by Bot Thieves"
         },
