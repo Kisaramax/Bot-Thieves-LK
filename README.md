@@ -36,7 +36,7 @@ Bot Thieves bot විශේෂාංග මෙන්න.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KisaraBro/indexjs?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KisaraBro/Bot-Thives#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kisaramax/Bot-Thieves-LK)
      </div>
